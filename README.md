@@ -3,6 +3,8 @@
 基于 cfquant REST API 与 大QMT 交互的命令行控制台。
 支持交互式命令、Tab 自动补全、账号切换、账户/持仓/订单/成交查询与下单。
 
+![demo](demo.png)
+
 ## 依赖
 
 ```bash
